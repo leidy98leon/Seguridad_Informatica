@@ -1,0 +1,123 @@
+nav{
+    background-image: url("../IMG/morado.jpg");
+    text-align: center;
+    font: bold 17px verdana ;
+    
+    max-width: width 75%
+}
+body{
+    background-color:black; 
+}
+header, h1{
+    background-color: dodgerblue;
+    text-align: center;
+    max-width: width 75%
+    font: bold 50/px verdana ;
+}
+.central6, nav, header, .contenedor, .autores, footer,.central1, .central, .central2, .central5,.inicio, .central4, .central6{
+    max-width: width 90%
+    margin: auto;
+    borde: radiusem;
+}
+header, h6{ 
+    font: bold 16/px verdana, verdana, color white;
+
+}
+
+article {
+    text-align: center;
+    font-size: 18px;
+}
+p {
+    text-align: justify;
+}
+h6 {
+    font-size: 12px;  
+}
+aside {
+    text-align: center; 
+}
+section {
+    background-image: url("../IMG/images.jpg");
+    text-align: justify;
+    
+}
+h6 {
+    text-align: center;
+}
+
+.autores {
+    text-align: center;
+}
+footer  {
+
+  background-image: url("../IMG/violet.jpg");
+  text-align :center;
+
+}
+footer p {
+    text-align: center;
+}
+
+body{
+    background-color: oldlace;
+    color: black
+}
+h3 {
+    text-align: center; 
+}
+article h4 {
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+.central1, aside {
+    background-color: palegreen;
+    display: inline-block;
+    max-width: 150%;
+    max-height: 80%;
+    text-align: center;
+}
+aside{
+    text-align: central;
+}
+
+.central, article, p{
+    font-size: 18px;  
+    text-align: center;
+}
+.central2, article, h3, p {
+    text-align: justify;
+}
+.central2, aside, h4 {
+    text-align: center;
+    font-size: 18px;  
+}
+.central, article, h2, p{
+    text-align: center;
+}
+.central5, article, h3, p {
+    text-align: center;
+}
+
+aside, h6 {
+    background-image: url("../IMG/images.jpg");
+}
+aside, h6{
+    text-align: center;
+}
+.central4, article, h3, p {
+    text-align: center;
+}
+.central6{
+    text-align: justify;
+}
+.contenedor, p {
+    text-align: justify;
+}
+h5{
+    font-size: 18px;  
+}
+
